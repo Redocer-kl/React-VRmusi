@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-VRmusi/static/css/main.5b5f7621.css",
+    "main.css": "/React-VRmusi/static/css/main.c4c9c247.css",
     "main.js": "/React-VRmusi/static/js/main.ef9b7935.js",
     "static/media/Montserrat-Bold.ttf": "/React-VRmusi/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
     "static/media/Outfit-Medium.ttf": "/React-VRmusi/static/media/Outfit-Medium.1d6f1a86e227bec4497d.ttf",
     "static/media/thelines.svg": "/React-VRmusi/static/media/thelines.a62dfd5baf5f41c962c6f89223685fbb.svg",
     "static/media/cross-svgrepo.svg": "/React-VRmusi/static/media/cross-svgrepo.360468585135734456d2afeac12e31ad.svg",
     "index.html": "/React-VRmusi/index.html",
-    "main.5b5f7621.css.map": "/React-VRmusi/static/css/main.5b5f7621.css.map",
+    "main.c4c9c247.css.map": "/React-VRmusi/static/css/main.c4c9c247.css.map",
     "main.ef9b7935.js.map": "/React-VRmusi/static/js/main.ef9b7935.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b5f7621.css",
+    "static/css/main.c4c9c247.css",
     "static/js/main.ef9b7935.js"
   ]
 }
